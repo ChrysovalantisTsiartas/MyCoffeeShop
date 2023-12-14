@@ -5,10 +5,12 @@ The application provides a user-friendly way to manage the menu and orders, leve
 
 Furthermore, users have the ability to monitor sales, adjust prices, and receive reports on the performance of their business, using receipts as a tool.
 
-In summary, we can describe "My Coffee Shop" as an advanced coffee shop management system that provides all the necessary functions for accurate payment calculations and effective recording of sold products.\n
+In summary, we can describe "My Coffee Shop" as an advanced coffee shop management system that provides all the necessary functions for accurate payment calculations and effective recording of sold products.
 
 1st: My CoffeShop
+
 2nd:Information
+
 3rd: Prototype
 
 <img width="1277" alt="CurrentProject" src="https://github.com/ChrysovalantisTsiartas/MyCoffeeShop/assets/128635583/56c625ab-afc5-4508-90be-a924fe4bd7e7">
